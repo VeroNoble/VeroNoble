@@ -2,6 +2,8 @@
 
 Estudiante de la Tecnicatura Superior en Ciencia de Datos e IA. Este espacio reúne los trabajos prácticos que mejor representan lo que sé hacer hoy: desde análisis de datos y estadística hasta redes neuronales y modelos generativos.
 
+Me interesa particularmente aplicar estas herramientas a problemas reales y de uso cotidiano, más que quedarme solo en el ejercicio académico.
+
 ### 📂 Proyectos destacados
 
 - **[Análisis de productividad y hábitos digitales](https://github.com/VeroNoble/analisis-productividad-habitos-digitales)** — limpieza de datos, EDA, prueba de hipótesis y modelos de regresión/clasificación con scikit-learn.
@@ -12,7 +14,14 @@ Estudiante de la Tecnicatura Superior en Ciencia de Datos e IA. Este espacio re�
 
 ### 🛠️ Herramientas
 
-Python · pandas · NumPy · scikit-learn · TensorFlow / Keras · matplotlib · seaborn · SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ### 📫 Contacto
 
