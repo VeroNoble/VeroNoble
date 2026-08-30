@@ -6,7 +6,7 @@ Estudiante de la Tecnicatura Superior en Ciencia de Datos e IA. Este espacio re�
 
 - **[Análisis de productividad y hábitos digitales](https://github.com/VeroNoble/analisis-productividad-habitos-digitales)** — limpieza de datos, EDA, prueba de hipótesis y modelos de regresión/clasificación con scikit-learn.
 - **[Clasificación de semillas con SVM](https://github.com/VeroNoble/clasificacion-svm-semillas)** — comparación de kernels lineal y RBF, visualización de fronteras de decisión.
-- **[Restauración de fotos antiguas con Deep Learning](https://github.com/VeroNoble/restauracion-fotos-antiguas)** — arquitectura GAN (U-Net + discriminador) en TensorFlow, con generación de dataset sintético de daño.
+- **[Restauración de fotos antiguas con Deep Learning](https://github.com/VeroNoble/restauracion-fotos-antigua)** — arquitectura GAN (U-Net + discriminador) en TensorFlow, con generación de dataset sintético de daño.
 - **[Clasificación de imágenes con CNN (CIFAR-10)](https://github.com/VeroNoble/clasificacion-cnn-cifar10)** — red convolucional entrenada desde cero, con script interactivo para probarla con fotos propias.
 - **[Árbol de decisión para diagnóstico de cáncer de mama](https://github.com/VeroNoble/arbol-decision-cancer-mama)** — clasificación interpretable con scikit-learn, 95% de precisión.
 
