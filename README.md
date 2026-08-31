@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Vero 👋
 
-Estudiante de la Tecnicatura Superior en Ciencia de Datos e IA. Este espacio reúne los trabajos prácticos que mejor representan lo que sé hacer hoy: desde análisis de datos y estadística hasta redes neuronales y modelos generativos.
+Estudiante de la Tecnicatura Superior en Ciencia de Datos e IA. Este espacio reúne los proyectos que mejor representan lo que sé hacer hoy: desde análisis de datos y estadística hasta redes neuronales y modelos generativos.
 
 Me interesa particularmente aplicar estas herramientas a problemas reales y de uso cotidiano, más que quedarme solo en el ejercicio académico.
 
