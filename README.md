@@ -6,6 +6,7 @@ Me interesa particularmente aplicar estas herramientas a problemas reales y de u
 
 ### 📂 Proyectos destacados
 
+- **[Detección de daños sintéticos en fotos de siniestros](https://github.com/VeroNoble/deteccion-danos-sinteticos)** 🚧 *en desarrollo* — pipeline de datos con Stable Diffusion para generar fotos de autos manipuladas, con controles para evitar atajos, orientado a detectar fraude con IA en seguros (PyTorch, ConvNeXt).
 - **[Análisis de productividad y hábitos digitales](https://github.com/VeroNoble/analisis-productividad-habitos-digitales)** — limpieza de datos, EDA, prueba de hipótesis y modelos de regresión/clasificación con scikit-learn.
 - **[Clasificación de semillas con SVM](https://github.com/VeroNoble/clasificacion-svm-semillas)** — comparación de kernels lineal y RBF, visualización de fronteras de decisión.
 - **[Restauración de fotos antiguas con Deep Learning](https://github.com/VeroNoble/restauracion-fotos-antigua)** — arquitectura GAN (U-Net + discriminador) en TensorFlow, con generación de dataset sintético de daño.
