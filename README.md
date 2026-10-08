@@ -10,7 +10,7 @@ Me interesa particularmente aplicar estas herramientas a problemas reales y de u
 - **[Clasificación de semillas con SVM](https://github.com/VeroNoble/clasificacion-svm-semillas)** — comparación de kernels lineal y RBF, visualización de fronteras de decisión.
 - **[Restauración de fotos antiguas con Deep Learning](https://github.com/VeroNoble/restauracion-fotos-antigua)** — arquitectura GAN (U-Net + discriminador) en TensorFlow, con generación de dataset sintético de daño.
 - **[Clasificación de imágenes con CNN (CIFAR-10)](https://github.com/VeroNoble/clasificacion-cnn-cifar10)** — red convolucional entrenada desde cero, con script interactivo para probarla con fotos propias.
-- **[Árbol de decisión para diagnóstico de cáncer de mama](https://github.com/VeroNoble/arbol-decision-cancer-mama)** — clasificación interpretable con scikit-learn, 95% de precisión.
+- **[Árbol de decisión para diagnóstico de cáncer de mama](https://github.com/VeroNoble/arbol-decision-cancer-mama)** — clasificación interpretable con scikit-learn: 95% de accuracy y 91% de recall en casos malignos.
 
 ### 🛠️ Herramientas
 
@@ -20,6 +20,7 @@ Me interesa particularmente aplicar estas herramientas a problemas reales y de u
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=flat&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
