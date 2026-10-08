@@ -27,7 +27,7 @@ Me interesa particularmente aplicar estas herramientas a problemas reales y de u
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**En el trabajo:** Power Automate · SharePoint · Copilot Studio (automatización de procesos en el área de siniestros)
+**En el trabajo:** Power Automate · SharePoint · Copilot Studio (automatización de procesos en una aseguradora)
 
 ### 📫 Contacto
 
